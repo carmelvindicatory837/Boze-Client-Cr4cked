@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Cracked by <a href="https://github.com/Own3dM3">OwnedMe</a></b>
-  <b>2nd Cracked <a href="https://github.com/tinkoprofplus">Tinkoprof</a></b>
+  <b>2nd Cracked <a href="https://github.com/tinkoprofplus">Tinkoprof (fake)</a></b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 📖 Why
 > "Why we do it? Because I told the Boze developer 2 years ago I'd crack it. But the real reason? They wouldn't give me $20, so here is the leak."
-
+> "Also this client is fake HotSpot!"
 ---
 
 ## 🚀 Installation Guide
