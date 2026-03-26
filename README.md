@@ -7,6 +7,7 @@
 <p align="center">
   <b>Cracked by <a href="https://github.com/Own3dM3">OwnedMe</a></b>
   <b>2nd Cracked <a href="https://github.com/tinkoprofplus">Tinkoprof (fake)</a></b>
+  <b>Thx to ReChamo(troll4) for account</b>
 </p>
 
 <p align="center">
